@@ -34,4 +34,8 @@ public class TableAndChairs {
 		System.out.println("        X    X          X    X             ");
 		System.out.println("         XXXX        	 XXXX              ");
 	}
+	
+	
 }
+
+
